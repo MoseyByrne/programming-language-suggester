@@ -6,3 +6,8 @@ h3 {
 .card {
   background-color: rgb(250, 236, 192);
 }
+
+.btn {
+  margin-top: 15px;
+  background-color: lightpink;
+}
