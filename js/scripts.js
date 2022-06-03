@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $("form#quizForm").submit(function(event) {
     event.preventDefault();
-
+   
 const beverageInput = $("input:radio[name=beverage]:checked").val();
 const pizzaInput = $("input:radio[name=pizza]:checked").val();
 const awakeInput = $("input:radio[name=awake]:checked").val();

@@ -4,7 +4,7 @@ h3 {
 }
 
 .card {
-  background-color: rgb(254, 254, 224);
+  background-color: rgb(224, 254, 224);
   padding: 5px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -39,4 +39,8 @@ body {
   font-size: larger;
   font-weight: bolder;
   font-style: italic;
+}
+
+.showingImg {
+  
 }
