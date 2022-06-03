@@ -2,3 +2,7 @@ h3 {
   font-size: 15px;
   font-weight: bolder;
 }
+
+.card {
+  background-color: rgb(250, 236, 192);
+}
